@@ -1,4 +1,5 @@
-# Code compliment for the Publication: Self-extinguishing relay waves enable homeostatic control of human neutrophil swarming. 
+# Code compliment for the Publication: 
+# Self-extinguishing relay waves enable homeostatic control of human neutrophil swarming. 
 
 This repository is a backup code posting in a *slightly* more accesible format than is also available on Dryad at: https://doi.org/10.5061/dryad.k0p2ngfg2. This codebase is a collection of the Jupyter notebooks used in running simulations (Julia) and analyzing/graphing data (Python).
 
